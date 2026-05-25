@@ -1,0 +1,1 @@
+This project consist of few iteration of coding agent that I tried to develop. Version 1 includes a brute force method to change the output of AI to json format but issue can be made due to uncontrollable AI output might happen.
